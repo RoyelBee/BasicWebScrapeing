@@ -14,7 +14,10 @@ soup = BeautifulSoup(link, 'html.parser')
 #     print(div.a.text)
 
 
-# # ----- At a time phone name and their price ( All data are come from in a single page )
+# # ------------------------------------------------------------------------------
+# At a time phone name and their price ( All data are come from in a single page )
+### ------------------------------------------------------------------------------
+
 result = soup.find_all('div', attrs={'class': 'single'})
 # print(result)
 phone = []
