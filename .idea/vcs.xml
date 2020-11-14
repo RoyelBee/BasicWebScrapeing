@@ -3,7 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../ERP_monthly_emp_reports" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../SKF_Outstanding_Report" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../gmp_report_with_functions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../GPM_new_v10" vcs="Git" />
   </component>
 </project>

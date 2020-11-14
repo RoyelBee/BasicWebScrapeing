@@ -4,9 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/BasicWebScrapeing.iml" filepath="$PROJECT_DIR$/.idea/BasicWebScrapeing.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ERP_monthly_emp_reports/.idea/ERP_monthly_emp_reports.iml" filepath="$PROJECT_DIR$/../ERP_monthly_emp_reports/.idea/ERP_monthly_emp_reports.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../SKF_Outstanding_Report/.idea/SKF_Final_outstanding_report.iml" filepath="$PROJECT_DIR$/../SKF_Outstanding_Report/.idea/SKF_Final_outstanding_report.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GPM_new_v10/.idea/GPM_new.iml" filepath="$PROJECT_DIR$/../GPM_new_v10/.idea/GPM_new.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Short-Name-Generator/.idea/Short-Name-Generator.iml" filepath="$PROJECT_DIR$/../Short-Name-Generator/.idea/Short-Name-Generator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../gmp_report_with_functions/.idea/gmp_report_with_functions.iml" filepath="$PROJECT_DIR$/../gmp_report_with_functions/.idea/gmp_report_with_functions.iml" />
     </modules>
   </component>
 </project>

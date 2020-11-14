@@ -6,7 +6,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Short-Name-Generator" />
     <orderEntry type="module" module-name="ERP_monthly_emp_reports" />
-    <orderEntry type="module" module-name="SKF_Final_outstanding_report" />
-    <orderEntry type="module" module-name="gmp_report_with_functions" />
+    <orderEntry type="module" module-name="GPM_new" />
   </component>
 </module>
