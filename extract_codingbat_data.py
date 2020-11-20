@@ -72,7 +72,7 @@ for link in section_links:
 
         # Show all questions link , Title and its example -------------------------------
         # print('\n\n')
-        # print(question)
+        print(question)
         # print(problem_statement)
         # for examples in q_examples:
         #     print(examples)

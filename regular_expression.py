@@ -47,3 +47,11 @@ text = 'I like to do programming. It is awesome. I have to doing this next 3 yea
 # x = re.findall('is|have', text)
 # print(x)
 
+# # #------------ Test
+text = " #138,982 in Computers & Accessories (See Top 100 in Computers & Accessories) #25,984 in Traditional Laptop "
+# Computers
+r = text.split('(')
+rr = text.split(')')
+
+print(r[0])
+print(rr[1])
