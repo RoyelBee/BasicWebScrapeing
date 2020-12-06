@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="Python 3.8 (scrapper_env)" jdkType="Python SDK" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/scrapper_env" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.9 (scrapper_env)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Short-Name-Generator" />
-    <orderEntry type="module" module-name="ERP_monthly_emp_reports" />
-    <orderEntry type="module" module-name="GPM_new" />
   </component>
 </module>
