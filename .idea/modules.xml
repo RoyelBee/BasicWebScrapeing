@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/BasicWebScrapeing.iml" filepath="$PROJECT_DIR$/.idea/BasicWebScrapeing.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../ERP_monthly_emp_reports/.idea/ERP_monthly_emp_reports.iml" filepath="$PROJECT_DIR$/../ERP_monthly_emp_reports/.idea/ERP_monthly_emp_reports.iml" />
       <module fileurl="file://$PROJECT_DIR$/../GPM_new_v10/.idea/GPM_new.iml" filepath="$PROJECT_DIR$/../GPM_new_v10/.idea/GPM_new.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Short-Name-Generator/.idea/Short-Name-Generator.iml" filepath="$PROJECT_DIR$/../Short-Name-Generator/.idea/Short-Name-Generator.iml" />
     </modules>
